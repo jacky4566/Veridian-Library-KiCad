@@ -1,0 +1,196 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADA4807-4
+D Quad Rail-to-Rail Input/Output Amplifiers, TSSOP-14
+K quad opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf
+$ENDCMP
+#
+$CMP ADG884
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG884.pdf
+$ENDCMP
+#
+$CMP DF1501S
+F Manufacturer Recommendations
+$ENDCMP
+#
+$CMP DX07P024MJ1R1500
+F 1.0
+$ENDCMP
+#
+$CMP IN-PI42TASPRPGPB
+D Addressable Lighting - 1 LED Discrete Serial (Shift Register) Red, Green, Blue (RGB)
+F http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI42TAS(X)R(X)G(X)B_v1.1.pdf
+$ENDCMP
+#
+$CMP LM324
+D Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+$CMP LM324A
+D Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+$CMP LMC6484
+D Quad CMOS Rail-to-Rail Input and Output Operational Amplifier, DIP-14/SOIC-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lmc6484.pdf
+$ENDCMP
+#
+$CMP LMV324
+D Quad Low-Voltage Rail-to-Rail Output Operational Amplifier, SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+$CMP MC33079
+D Low Noise, Quad Operational Amplifiers, DIP-14/SOIC-14
+K quad opamp
+F https://www.onsemi.com/pub/Collateral/MC33078-D.PDF
+$ENDCMP
+#
+$CMP MC33174
+D Quad Single Supply 3.0V to 44V, Low Power Operational Amplifiers, DIP-14/SOIC-14/TSSOP-14
+K quad opamp
+F http://www.onsemi.com/pub/Collateral/MC33171-D.PDF
+$ENDCMP
+#
+$CMP MC33179
+D Quad Low Power, Low Noise Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F https://www.onsemi.com/pub/Collateral/MC33178-D.PDF
+$ENDCMP
+#
+$CMP MCP2515-xML
+D Stand-Alone CAN Controller with SPI Interface, SOIC-18
+K CAN Controller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
+$CMP MCP6004
+D 1MHz, Low-Power Op Amp, DIP-14/SOIC-14/TSSOP-14
+K quad opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP604
+D Quad 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-14/SOIC-14/TSSOP-14
+K quad opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf
+$ENDCMP
+#
+$CMP MCP6L94
+D 10 MHz, 850 µA Op Amps, SOIC-14/TSSOP-14
+K quad opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP OPA1604
+D Quad SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-14/TSSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa1604.pdf
+$ENDCMP
+#
+$CMP OPA1679
+D Low-Distortion Audio Operational Amplifiers, SOIC-14/TSSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa1678.pdf
+$ENDCMP
+#
+$CMP OPA4134
+D Quad SoundPlus High Performance Audio Operational Amplifiers, SOIC-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA4340UA
+D Quad Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOIC-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa340.pdf
+$ENDCMP
+#
+$CMP OPA4376
+D Quad Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SC-70-5
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP TL064
+D Quad Low-Power JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tl061.pdf
+$ENDCMP
+#
+$CMP TL074
+D Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tl071.pdf
+$ENDCMP
+#
+$CMP TL084
+D Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tl081.pdf
+$ENDCMP
+#
+$CMP TLC274
+D Quad LinCMOS Precision Quad Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tlc274.pdf
+$ENDCMP
+#
+$CMP TLC279
+D Quad LinCMOS Precision Quad Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tlc274.pdf
+$ENDCMP
+#
+$CMP TLV9064IRTER
+D CMOS Amplifier 4 Circuit Rail-to-Rail 16-WQFN (3x3)
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tlv9064.pdf
+$ENDCMP
+#
+$CMP TPS1HA08-Q1
+F http://www.ti.com/lit/ds/symlink/tps1ha08-q1.pdf
+$ENDCMP
+#
+$CMP TS5A23157RSER
+D Dual SPDT 0.3Ω Bidirectional Analog Switch, VSON-10
+K switch analog SPDT
+F http://www.ti.com/lit/ds/symlink/ts3a24159.pdf
+$ENDCMP
+#
+$CMP TS5A23159RSER
+D Dual SPDT 1.0Ω Bidirectional Analog Switch, UQFN-10
+K switch analog SPDT
+F http://www.ti.com/lit/ds/symlink/ts5a23159.pdf
+$ENDCMP
+#
+$CMP TSV914
+D Quad rail-to-rail input/output 8 MHz operational amplifiers, SOIC-14/TSSOP-14
+K quad opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV994
+D Quad Rail-to-rail, 20 MHz GBP, operational amplifiers, SOIC-14/TSSOP-14
+K quad opamp
+F https://www.st.com/resource/en/datasheet/tsv994.pdf
+$ENDCMP
+#
+$CMP UJ2-MIBV-4-SMT-TR-67
+F None
+$ENDCMP
+#
+$CMP WLP.12.B
+D Antenna with extra pin for shielding
+K antenna
+F ~
+$ENDCMP
+#
+#End Doc Library
