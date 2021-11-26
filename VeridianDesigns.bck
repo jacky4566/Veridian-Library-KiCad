@@ -10,6 +10,10 @@ $CMP ADG884
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG884.pdf
 $ENDCMP
 #
+$CMP DF1501S
+F Manufacturer Recommendations
+$ENDCMP
+#
 $CMP DX07P024MJ1R1500
 F 1.0
 $ENDCMP
