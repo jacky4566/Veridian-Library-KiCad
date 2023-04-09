@@ -41,8 +41,8 @@
   (pad "16" thru_hole circle (at -5 3) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask) (tstamp 97f41563-b89f-4467-a029-b22244819e02))
   (pad "17" thru_hole circle (at -7.5 3) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask) (tstamp 7d6361d4-f268-4b0b-97a0-143535ff88d3))
   (pad "18" thru_hole circle (at -10 3) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask) (tstamp c17299c3-8f60-4082-9be0-bbabc66e38fd))
-  (model "C:/GitHub/Veridian-Library-KiCad/KTMCruise.pretty/MX23A18NF1.kicad_mod"
-    (offset (xyz 0 -32.7 8.3))
+  (model "C:/GitHub/Veridian-Library-KiCad/KTMCruise.pretty/3D/K3D-MX23A18NF1-R5 JAE Connector Division Proprietary.STEP"
+    (offset (xyz 0 -32.8 8))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
