@@ -89,4 +89,9 @@
     (solder_mask_margin 0.102) (tstamp 56de27b0-f83c-4032-8476-d8bfc7da1c3a))
   (pad "S4" smd rect (at -5.75 -1.4 180) (size 0.8 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.102) (tstamp 7a8aac0d-ab11-44d5-ba05-f05f94ef0030))
+  (model "C:/GitHub/Veridian-Library-KiCad/3D/FFC2A32-20-T.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
