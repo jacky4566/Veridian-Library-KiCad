@@ -1,0 +1,176 @@
+(footprint "MS192-10S-Shield- 19.2x14.9"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -5.4 -10.4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fa63c2ca-0ac9-4a1d-a148-9bbc902357ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MS192-10S-Shield- 19.2x14.9"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d2fa1c77-663a-4099-84b6-df2bc4084296")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b36b406b-5b04-4df4-9417-22283b059186")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4889b253-3842-425e-bd0b-e83bb59c7500")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd85a3cd-21a4-4ff7-b925-ff22ba5367a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -7.6 -9.8)
+		(end 7.6 9.8)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "9f9ec24e-c0a7-4149-9c52-e75cb42c43e1")
+	)
+	(fp_line
+		(start -7.45 8.2)
+		(end -7.45 -8.2)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Eco1.User")
+		(uuid "fc7e3e3b-7ef6-4839-8985-bb7e12dcf836")
+	)
+	(fp_line
+		(start -6.05 -9.6)
+		(end 6.05 -9.6)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Eco1.User")
+		(uuid "1c936cd8-9ecb-490b-aafd-7b03972ad00b")
+	)
+	(fp_line
+		(start 6.05 9.6)
+		(end -6.05 9.6)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Eco1.User")
+		(uuid "2504a4bd-fe6e-487c-ac4b-b7592071fdbb")
+	)
+	(fp_line
+		(start 7.45 -8.2)
+		(end 7.45 8.2)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Eco1.User")
+		(uuid "646ca5b7-4ceb-4904-8735-0b8f89bca495")
+	)
+	(fp_arc
+		(start -7.45 -8.2)
+		(mid -7.039949 -9.189949)
+		(end -6.05 -9.6)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Eco1.User")
+		(uuid "a70820a7-3a77-4861-966d-7fb95a20380b")
+	)
+	(fp_arc
+		(start -6.05 9.6)
+		(mid -7.039949 9.189949)
+		(end -7.45 8.2)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Eco1.User")
+		(uuid "c575cbc9-a726-48da-8959-6d09c619b1be")
+	)
+	(fp_arc
+		(start 6.05 -9.6)
+		(mid 7.039949 -9.189949)
+		(end 7.45 -8.2)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Eco1.User")
+		(uuid "7197b0cd-3d8b-4669-9ae9-26003790369a")
+	)
+	(fp_arc
+		(start 7.45 8.2)
+		(mid 7.039949 9.189949)
+		(end 6.05 9.6)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Eco1.User")
+		(uuid "b6ee869d-b772-4ed8-974a-ba5056d90d96")
+	)
+	(model "C:/GitHub/VeridianCruise/PCB/KiCadLibrary/KTMCruise.pretty/MS192-10S.STEP"
+		(offset
+			(xyz -7.5 9.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+)
