@@ -79,9 +79,9 @@
 		(uuid "39d114e9-4d19-48c0-a631-9cf892232de1")
 	)
 	(fp_arc
-		(start -0.4 0.8)
-		(mid -1.082843 1.082843)
-		(end -0.8 0.4)
+		(start -0.8 -0.4)
+		(mid -1.082843 -1.082843)
+		(end -0.4 -0.8)
 		(stroke
 			(width 0.08)
 			(type default)
