@@ -132,4 +132,15 @@
 		(thermal_bridge_angle 45)
 		(uuid "7e7f263a-0f2f-412e-81af-46b928dbca00")
 	)
+	(model "C:/GitHub/Veridian-Library-KiCad/3D/KRTB_DWLM31_32_20250507_geometry.STEP"
+		(offset
+			(xyz 0 -0.7 0.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
 )
