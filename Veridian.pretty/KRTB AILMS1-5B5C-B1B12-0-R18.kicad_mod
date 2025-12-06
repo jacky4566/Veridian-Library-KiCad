@@ -1,0 +1,155 @@
+(footprint "KRTB AILMS1-5B5C-B1B12-0-R18"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.4 8.6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7b8fb31a-a35c-43c9-8219-cb00d4f7e329")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "KRTB AILMS1-5B5C-B1B12-0-R18"
+		(at 0.4 10.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d492b7fc-c096-4690-8cb4-510f03d3ad83")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0.4 9.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e1c52e9-b0df-44a8-b143-50ab664d9be8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0.4 9.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9bdb2140-1ec6-4eee-bc02-6ac91b113a7c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0.4 9.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ab26e383-e515-434e-9aed-2b19f57920f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.4 0.63)
+		(end 2.58 0.63)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0c39bd39-9f84-4e1e-b9e4-b770005b0d56")
+	)
+	(fp_circle
+		(center -1.95 -0.2)
+		(end -1.704847 -0.2)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "68e18f0e-ffc0-4872-a46f-64ebaafd9d03")
+	)
+	(fp_rect
+		(start -1.43 -0.5)
+		(end 2.57 0.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "c827740d-0d89-4b93-ab58-a75c12a775cb")
+	)
+	(pad "1" smd rect
+		(at -1.025 -0.11 90)
+		(size 0.2215 0.59)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "6db46873-3fe7-494d-9d27-64fa7daa9b29")
+	)
+	(pad "1" smd rect
+		(at -0.8925 0)
+		(size 0.325 0.443)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "0ea983c2-a9d2-46d7-8c83-42146b1ceb7f")
+	)
+	(pad "2" smd rect
+		(at 0 0)
+		(size 0.3 0.443)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "3fdcad27-6246-45bf-8fcc-552934288a5c")
+	)
+	(pad "3" smd rect
+		(at 1.015 0 180)
+		(size 0.4 0.443)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b34b9910-0d9d-4dca-bb49-80f06710ae91")
+	)
+	(pad "4" smd rect
+		(at 2.0525 0)
+		(size 0.325 0.443)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "d17f9ff8-d563-4b5d-af07-f0bf7c24e4eb")
+	)
+	(pad "4" smd rect
+		(at 2.19 -0.11 90)
+		(size 0.2215 0.59)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "1028469f-287d-4218-a89c-9147bd710f12")
+	)
+	(model "C:/GitHub/Veridian-Library-KiCad/3D/KRTB_AILMS1_20211216_geometry.STEP"
+		(offset
+			(xyz 0.6 -0.7 0.3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 -90 90)
+		)
+	)
+)
