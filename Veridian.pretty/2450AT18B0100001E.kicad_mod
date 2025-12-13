@@ -116,4 +116,15 @@
 		(thermal_bridge_angle 45)
 		(uuid "81f35f21-9273-4c8f-805a-9fe631cf663a")
 	)
+	(model "C:/GitHub/Veridian-Library-KiCad/3D/2450AT18B0100001E.STEP"
+		(offset
+			(xyz -1.6 -0.6 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )
